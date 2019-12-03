@@ -1,0 +1,14 @@
+<resources>
+	<string name="app_name">NestedScrollViewRuntime</string>
+	<string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pellentesque nibh arcu. Praesent elementum quam purus, vitae mollis justo tristique vitae. Vestibulum posuere tellus ac erat varius aliquet. Pellentesque ullamcorper enim pellentesque orci maximus pellentesque. Sed eget ante placerat, dictum est in, fringilla libero. Nullam nunc libero, pulvinar non iaculis sed, sodales in libero. Nullam vel sapien et mauris lacinia aliquet id non odio.
+
+Donec augue enim, pellentesque quis vehicula et, mollis et nibh. Donec tincidunt, est eget euismod auctor, risus magna vestibulum lectus, quis pretium magna tortor a ligula. Nulla egestas vitae ex quis auctor. Pellentesque egestas sapien in nulla rutrum, vel rhoncus nisi vulputate. Nam a posuere neque. Nulla viverra maximus hendrerit. Donec ac nisl turpis. Integer non dolor tincidunt, porta dui ut, condimentum orci.
+
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus volutpat mauris ut arcu tristique auctor. Praesent et tincidunt neque, at semper eros. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam ex mi, feugiat a arcu vel, cursus dapibus eros. Maecenas est neque, cursus in sem vel, molestie iaculis sapien. Cras lacus ex, lacinia quis metus pretium, sollicitudin consectetur sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer scelerisque ex commodo scelerisque ullamcorper. Curabitur pellentesque porttitor nibh in consectetur. Ut sollicitudin sapien ac nisl dictum, et aliquam purus varius. Morbi efficitur bibendum urna, non elementum odio facilisis non.
+
+Donec tincidunt non metus sed facilisis. Vivamus fermentum leo sit amet justo ornare, varius finibus massa feugiat. Phasellus convallis euismod consectetur. Fusce non ultricies nunc, ac mollis ligula. Morbi vestibulum tempus ex, eu porttitor tellus rutrum finibus. Etiam nunc erat, semper sit amet lectus vitae, interdum rhoncus ante. Etiam nec lacus quis risus lacinia varius sed quis ipsum. Suspendisse a facilisis erat. Cras sed ipsum et magna vestibulum pulvinar sed in arcu. Cras velit lectus, egestas eu sagittis sed, rutrum et quam. Morbi lobortis congue quam sed elementum.
+
+Quisque mollis semper lorem, a convallis urna vulputate sit amet. Mauris mattis, magna at aliquam consectetur, arcu ligula gravida massa, a dapibus justo quam at tortor. Suspendisse consequat quis nisi eu faucibus. Etiam metus risus, gravida in bibendum in, tincidunt in sapien. Cras aliquet fringilla finibus. Sed et iaculis quam. Duis in arcu nisi. Nam viverra arcu sollicitudin urna interdum, a egestas velit facilisis. Etiam at eros non eros fringilla auctor. Phasellus vel tempor eros. Integer finibus, leo vitae sagittis pretium, felis quam accumsan risus, eget euismod enim justo nec justo. Suspendisse in arcu ut velit accumsan auctor.</string>
+
+
+</resources>
